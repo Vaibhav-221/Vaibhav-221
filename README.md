@@ -50,9 +50,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-221&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-221&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhav-221&theme=tokyonight" />
+</p> -->
 
 ---
 
@@ -92,15 +92,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-221&theme=tokyo-night" />
 </p>
 
----
 
-# 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
+</p> -->
 
 # 🌐 Connect With Me
 
