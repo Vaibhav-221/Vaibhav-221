@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?Vaibhav-221&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,mysql,git,github,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,nodejs,python,c,git,github,vscode,wordpress" />
 </p>
 
 ---
