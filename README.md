@@ -40,9 +40,7 @@
 - 🔥 Preparing for Open Source programs like GSSoC & GSoC
 - 🤝 Interested in contributing to beginner-friendly projects
 - 🚀 Focused on real contributions, collaboration & continuous growth
-
----
-<!-- 
+ 
 # 📊 GitHub Stats
 
 
@@ -50,7 +48,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-221&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav-221&layout=compact&theme=tokyonight" />
 </p>
--->
 
 # 🛠️ Featured Projects
 
