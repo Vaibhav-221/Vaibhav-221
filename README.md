@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-221&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhav-221&theme=tokyonight" />
   <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav-221&layout=compact&theme=tokyonight" /> -->
 </p>
 
