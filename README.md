@@ -110,14 +110,6 @@
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav-221&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=700&color=4F9CF9&lines=Code.+Learn.+Contribute.+Repeat." />
 </p>
