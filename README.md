@@ -1,4 +1,4 @@
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45bb2e49-3fcc-4494-a173-79ce0860678b" />
 <!-- ========== HEADER ========== -->
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<a href="YOUR_PROJECT_LINK">
+<a href="https://github.com/Vaibhav-221/Attendance-Tracker-System">
   <img src="https://img.shields.io/badge/Project-View%20Project-blue?style=for-the-badge&logo=github" />
 </a>
 
