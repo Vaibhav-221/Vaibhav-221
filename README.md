@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45bb2e49-3fcc-4494-a173-79ce0860678b" />
+
 <!-- ========== HEADER ========== -->
 
 <p align="center">
