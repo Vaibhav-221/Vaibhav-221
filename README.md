@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Vaibhav&fontAlign=50&fontAlignY=40&color=0:4F9CF9,100:1E3A8A&fontColor=ffffff&animation=fadeIn&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=VAIBHAV&fontAlign=50&fontAlignY=40&color=0:4F9CF9,100:1E3A8A&fontColor=ffffff&animation=fadeIn&fontSize=50" />
 </p>
 
 <p align="center">
