@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=7F5AF0&lines=Full+Stack+Developer;Open+Source+Contributor;CSE+Student;Building+Real+World+Projects;Exploring+AI+and+Web+Technologies" />
 </p>
 <!-- <p align="center">
+currently not working
   <img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-221&theme=darkhub" alt="GitHub Trophies" />
 </p> -->
 <!-- --- -->
